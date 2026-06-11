@@ -1,0 +1,6 @@
+{
+  "name": "Rise Up",
+  "description": "Défiez-vous, engagez votre mise financière dans un pacte d'acier, et prouvez votre réussite avec l'IA.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
